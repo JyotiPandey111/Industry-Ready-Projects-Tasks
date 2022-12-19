@@ -5,6 +5,6 @@
 
 
 ## Solutions of Git and GitHub Assignment
-1. [Task 1](Git Task 1 Solution.pdf)
+1. [Task 1](https://github.com/JyotiPandey111/Industry-Ready-Projects-Tasks/blob/main/Git%20Task%201%20Solution.pdf)
 2. [Task 2](Git Task 2 Solution.pdf)
 3. [Task 3]
