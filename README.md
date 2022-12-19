@@ -5,6 +5,6 @@
 
 
 ## Solutions of Git and GitHub Assignment
-1. [Task 1](Git Task 1.pdf)
-2. [Task 2]
+1. [Task 1](Git Task 1 Solution.pdf)
+2. [Task 2](Git Task 2 Solution.pdf)
 3. [Task 3]
