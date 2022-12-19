@@ -8,3 +8,10 @@
 1. [Task 1](https://github.com/JyotiPandey111/Industry-Ready-Projects-Tasks/blob/main/Git%20Task%201%20Solution.pdf)
 2. [Task 2](https://github.com/JyotiPandey111/Industry-Ready-Projects-Tasks/blob/main/Git%20Task%202%20Solution.pdf)
 3. [Task 3](https://github.com/JyotiPandey111/Industry-Ready-Projects-Tasks/blob/main/Creating%20and%20Resolving%20GitHub%20Issue.pdf)
+
+
+## Solutions of Docker and DockerHub Assignment
+1. [Task 1]()
+2. [Task 2]()
+3. [Task 3]()
+4. [Task 4]()
