@@ -11,7 +11,7 @@
 
 
 ## Solutions of Docker and DockerHub Assignment
-1. [Task 1](https://github.com/JyotiPandey111/Industry-Ready-Projects-Tasks/blob/main/Docker%20Task%201%20Solution)
+1. [Task 1](https://github.com/JyotiPandey111/Industry-Ready-Projects-Tasks/blob/04a4109dd909cd226d5038d83ccc42422696c0b3/Docker%20Task%201%20Solution.md)
 2. [Task 2](https://github.com/JyotiPandey111/Industry-Ready-Projects-Tasks/blob/main/Docker%20Task%202%20Solution.md)
 3. [Task 3](https://github.com/JyotiPandey111/Industry-Ready-Projects-Tasks/blob/main/Docker%20Task%203%20Solution.md)
 4. [Task 4](https://github.com/JyotiPandey111/Industry-Ready-Projects-Tasks/blob/main/Docker%20Task%204%20Solution.md)
