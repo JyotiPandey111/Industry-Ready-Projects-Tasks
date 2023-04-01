@@ -74,7 +74,7 @@ clear
 
 
 
-### 6. Delete Docker Image:
+### 7. Delete Docker Image:
 
 ```
 docker rmi <image_name>
@@ -103,7 +103,7 @@ Command above will remove all images from this machine
 
 
 
-### 7. Push a image to a registry(DockerHub Account):
+### 8. Push a image to a registry(DockerHub Account):
 
 ```
 docker push <username>/<image_name>
@@ -112,3 +112,12 @@ docker push <username>/<image_name>
 Command is used to push the image to registry.
 
 ![image](https://github.com/JyotiPandey111/Industry-Ready-Projects-Tasks/blob/664e6419511faab3a5e717a99dcd78e9e25cfc0d/dockercontent/08%20push%20image%20.png)
+
+
+### 9. Pull a image from the registry(DockerHub Account):
+
+
+Command is used to pull the image from registry.
+![image]()
+
+
